@@ -196,4 +196,4 @@ Afterward you can type,
 and remove the USB and you can boot into your new system!
 
 ## Finale
-Congratulations! You have just installed Artix Linux! Right now it is just a terminal, you will need to setup a Desktop Environment by yourself. I have a guide for it in my Arch Linux Installation guide [here](https://github.com/solarunderscore/Easy-Arch-Installation).
+Congratulations! You have just installed Artix Linux! Right now it is just a terminal, you will need to setup a Desktop Environment by yourself. I have a guide for it in my Arch Linux Installation guide [here](https://github.com/solarunderscore/Easy-Arch-Installation#installing-a-desktop-environment).
